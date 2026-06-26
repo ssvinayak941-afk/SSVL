@@ -1,1 +1,1 @@
- return amount * 0.15 
+ return amount * 0.20 
